@@ -1,6 +1,6 @@
 # World Layoffs Project
 
-This is my first ever project using MySQL
+This is my first ever portfolio project using MySQL
 
 Please do leave your feedback, thank you so much.
 
