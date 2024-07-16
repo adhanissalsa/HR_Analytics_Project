@@ -1,6 +1,6 @@
-# World Layoffs Project
+# HR Analytics Projects
 
-This is my first ever portfolio project using MySQL
+This is my first MySQL project portfolio. This repository consist of projects that used HR related dataset.
 
 Please do leave your feedback, thank you so much.
 
